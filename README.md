@@ -1,6 +1,9 @@
 # Assessment-1
 My Profile
 
+![alternativetext](Assessment-1/Lisa Photo.jpg)
+      
+
 About me: 
 
 Hi everyone, my name is Lisa Casey, I am from Far North QLD where I was born and have lived for 90% of my life. I was previously studying Bachelor of Accounting, but when I my career moved into the Mortgage Broking industry and I started working alongside Financial Planners my path changed direction and I am now on my journey to completing my Financial Planning Degree. Hmmm, an interesting fact I guess is that I haven't always been an office worker, I used to work as a Nipper which is a position in underground mining.
