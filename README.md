@@ -56,8 +56,8 @@ Recently our workplace undertook a 10-week life coaching course to help us learn
 
 To ensure that the testing was accurate I undertook two different Myer-Briggs test and achieved the same results:
 
-![ESFJ 1 - resized](https://user-images.githubusercontent.com/48317010/54102159-f7436500-4412-11e9-9686-7f0669c7ad2a.jpg)
 ![ESFJ 2](https://user-images.githubusercontent.com/48317010/54102162-fd394600-4412-11e9-82da-8ab5161aa567.jpg)
+![ESFJ 1 - resized](https://user-images.githubusercontent.com/48317010/54102159-f7436500-4412-11e9-9686-7f0669c7ad2a.jpg)
 
 
 # Learning Style:
