@@ -1,7 +1,8 @@
 # Assessment-1
+
 My Profile
 
-![alternativetext](Assessment-1/Lisa Photo.jpg)
+![alternativetext](http://Assessment-1/Lisa Photo.jpg)
       
 
 About me: 
