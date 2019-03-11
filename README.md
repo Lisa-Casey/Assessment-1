@@ -58,7 +58,7 @@ Recently our workplace undertook a 10-week life coaching course to help us learn
 
 I then undertook a learning test through Education Planner and received the followed result to my learning style:
 
-![Learning Style](https://user-images.githubusercontent.com/48317010/54101577-260c0c00-4410-11e9-8f4a-8b0b255ba446.jpg)
+![Learning Style](https://user-images.githubusercontent.com/48317010/54102194-180bba80-4413-11e9-8808-a42c0f35fccf.jpg)
 
 
 The third test I chose the Big 5 Personality Test and the results were as follows:
