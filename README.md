@@ -30,6 +30,10 @@ I am hoping to get a grasp on the fundamental information and application techni
 
 My ideal career would be as a Financial Planner, working in a large group of like-minded professionals with a focus on business client portfolio’s. The position I have linked below would be my ideal position as the employer is searching for an individual who can provide holistic and ethical advise which aligns with my personal goals, and I enjoy a workplace that focuses on the bigger picture. 
 
+![Seek 1](https://user-images.githubusercontent.com/48317010/54115690-b8c0a100-4438-11e9-9d47-e542b92cb1e7.jpg)
+![Seek 2](https://user-images.githubusercontent.com/48317010/54115702-bcecbe80-4438-11e9-9f12-305044df4c5b.jpg)
+![seek 3](https://user-images.githubusercontent.com/48317010/54115710-c118dc00-4438-11e9-91ef-8297dcb0982e.jpg)
+
 https://www.seek.com.au/job/38509741?searchrequesttoken=e4469cf4-f3b1-4e3d-ab9c-009e843b77ec&type=standout
 
 To be successful in this position: the applicant would need to be currently employed in a similar role with their tertiary degree being FPA approved since the new regulations have come into play. I feel this company would rely heavily on past experience and would be needing relevant references to discuss prior work ethics, quality and general attributes of the applicant. Proven excellence would be a must with the chance of applicants needing to demonstrate their skills and work quality by presenting an example of an SOA task assignment or by demonstrating their ability with a client appointment. 
