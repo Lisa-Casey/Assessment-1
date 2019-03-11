@@ -3,7 +3,7 @@
 ## My Profile
 
 
-![Lisa Photo](https://user-images.githubusercontent.com/48317010/54099990-e7725380-4407-11e9-9358-a83048d1494e.jpg)
+![Lisa Photo](https://user-images.githubusercontent.com/48317010/54102121-d418b580-4412-11e9-8bea-5d50920ff141.jpg)
 
 
 # About me: 
