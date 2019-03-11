@@ -50,16 +50,24 @@ My goals for the next 5 years are:
 
 # Personal Profile:
 
-Recently our workplace undertook a 10-week life coaching course to help us learn about ourselves, our colleagues and how to work effectively as a team. To ensure that the testing was accurate I undertook two different Myer-Briggs test and achieved the same results:
+Recently our workplace undertook a 10-week life coaching course to help us learn about ourselves, our colleagues and how to work effectively as a team which we all found very interesting and I can definiely see how an employer would look strongly over such testing. 
+
+# Myers Briggs:
+
+To ensure that the testing was accurate I undertook two different Myer-Briggs test and achieved the same results:
 
 ![ESFJ 1 - resized](https://user-images.githubusercontent.com/48317010/54102159-f7436500-4412-11e9-9686-7f0669c7ad2a.jpg)
 ![ESFJ 2](https://user-images.githubusercontent.com/48317010/54102162-fd394600-4412-11e9-82da-8ab5161aa567.jpg)
 
 
+# Learning Style:
+
 I then undertook a learning test through Education Planner and received the followed result to my learning style:
 
 ![Learning Style](https://user-images.githubusercontent.com/48317010/54102194-180bba80-4413-11e9-8808-a42c0f35fccf.jpg)
 
+
+# Big Five Personality:
 
 The third test I chose the Big 5 Personality Test and the results were as follows:
 
