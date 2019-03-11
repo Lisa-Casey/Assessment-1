@@ -2,8 +2,9 @@
 
 My Profile
 
-![alternativetext](http://Assessment-1/Lisa Photo.jpg)
-      
+
+![Lisa Photo](https://user-images.githubusercontent.com/48317010/54099990-e7725380-4407-11e9-9358-a83048d1494e.jpg)
+
 
 About me: 
 
