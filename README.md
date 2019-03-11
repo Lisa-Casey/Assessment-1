@@ -67,3 +67,7 @@ The third test I chose the Big 5 Personality Test and the results were as follow
 ![Big % Personality](https://user-images.githubusercontent.com/48317010/54101595-3fad5380-4410-11e9-9bb0-c6989f47e543.jpg)
 
 
+# Results: 
+
+After completing the different types of tests and looking over the results it has revealed that I am an extroverted individual, with strong feelings that are passionate towards what I set my mind to along with being compassionate with others. The results have said that I am disciplined, well organised and eager to please. The results show that I dedicated, patient and eager to please which within a team can be very beneficial as well as that it mentioned I work best in team environments with the ability to work well under pressure and be conscientious of how colleagues / team mates are feeling. When forming a team desirably I would be on the lookout for like minded students, that are of a similar learning type with the one exception that one particular individual has strengths in leading/driving a team and would exercise the leadership position, but still having similar values and goals as my own.
+
