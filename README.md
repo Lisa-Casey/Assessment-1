@@ -64,4 +64,6 @@ I then undertook a learning test through Education Planner and received the foll
 
 The third test I chose the Big 5 Personality Test and the results were as follows:
 
+![Big % Personality](https://user-images.githubusercontent.com/48317010/54101595-3fad5380-4410-11e9-9bb0-c6989f47e543.jpg)
+
 
