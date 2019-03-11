@@ -51,3 +51,12 @@ My goals for the next 5 years are:
 # Personal Profile:
 
 Recently our workplace undertook a 10-week life coaching course to help us learn about ourselves, our colleagues and how to work effectively as a team. To ensure that the testing was accurate I undertook two different Myer-Briggs test and achieved the same results:
+
+![ESFJ 1](https://user-images.githubusercontent.com/48317010/54101506-e2b19d80-440f-11e9-98e4-586a08551676.jpg)
+
+![ESFJ 2](https://user-images.githubusercontent.com/48317010/54101509-e80ee800-440f-11e9-93f4-41cc1d7914b0.jpg)
+
+
+I then undertook a learning test through Education Planner and received the followed result to my learning style:
+
+
