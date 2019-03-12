@@ -91,36 +91,43 @@ After completing the different types of tests and looking over the results it ha
 
 # Idea: 
 
-It is estimated that 130,000 dogs and 60,000 cats are delivered to animal refuges in Australia to the be euthanized due to no adoption and no one claiming them (ATAAC, 2019). My project idea is to develop a smartphone app that enables each animal refuge and pound to be able to advertise the animals currently available to adopt. 
+It is estimated that 130,000 dogs and 60,000 cats are delivered to animal refuges in Australia and if they are not adopted or claimed they are euthanised, as there are simply not enough home for the amount of homeless animals (ATAAC, 2019). My project idea is to develop a smartphone app that enables each animal refuge to be able to advertise the animals they currently have available to be purchased. 
 
 # Why? 
-My motivation would be that I am extremely passionate about animal welfare and I know that better exposure of the animals that are looking for homes will decrease the amount of euthanised animals and also decrease the breeders that are not helping the cause of an excess of homeless, dead animals. There are many websites available for breeders, pet shops etc for buyers to view when they are in the market to purchase a pet, but there is very limited information surrounding animals at shelters, therefore I feel like there is a gap in the market where buyers are not offered all that is actually available. Fulfilling this would have an overall positive impact on the futures of many animal’s lives and purchases would help fund to keeping animal shelters operating.
+My motivation for this project would come from the fact that I am extremely passionate about animal welfare and I honestly feel with such statistics in Australia something needs to be done. Better exposure of the animals that are looking for homes will decrease the amount of euthanised animals as many more would be purchased and also decrease buyers purchasing directly from breeders - that in particular are not helping the cause of increasing the population of animals in Australia when we are already way over capacity. There are many websites available for breeders, pet shops etc for buyers to view when they are in the market to purchase a pet, but there is very limited information surrounding animals at shelters, therefore I feel like there is a gap in the market where buyers are not offered all that is actually available. Fulfilling this would have an overall positive impact on the futures of many animal’s lives and purchases would help fund to keeping animal shelters and the great causes surrounding animal welfare operating and alive.
 
 
 # How this app would look:
 
-The name of the app would be Furever. The app’s front page be box photos with names underneath of each animal available for adoption i.e. dogs, cats, horses etc. Once you have chosen the animal that you are in the market for, you would be prompted to put into your postcode, enter, and then you would have a grid list of photos of the animals within a 500km radius of your chosen postcode. You have the option to refine the search to reduce radius, animal age, colour, breed etc. There would also be a love heart on the bottom right of each photo, which once pressed would add selected animals to a “My List” in the top right-hand corner. 
+The name of the app would be Furever. The app’s front page be box photos with names underneath of each animal available for adoption i.e. dogs, cats, horses etc. Once you have chosen the animal that you are in the market for, you would be prompted to put into your postcode, enter, and then you would have a grid list of photos of the animals within a 500km radius of your chosen postcode. You have the option to refine the search to reduce radius, animal age, colour, breed etc. There would also be a love heart on the bottom right of each photo, which once pressed, would add selected animals to a “My List” in the top right-hand corner (and it woould also be in the drop down menu). 
 
-Once you have gone into an animal’s profile there will be multiple photos, a full description and an introductory video. If the animal is sponsored (I will touch on that more at the end) there will also be a business logo under the animal’s name, above the photo. The business logo if pressed will direct you to a webpage or Facebook page of the company. Within each of the animal’s page you will also have access to the contact details of the animal shelter where you can choose to call, text, email or submit an enquiry below. There will also be a booking button where you can book a time to view the animal which will also update your personal calendar. 
+Once you have entered into an animal’s profile there will be multiple photos, a full description and an introductory video. If the animal is sponsored (I will touch on that more at the end) there will also be a business logo under the animal’s name, above the photo. The business logo if pressed will direct you to a webpage or Facebook page of the company. Within each of the animal’s pages you will also have access to the contact details of the animal shelter where you can choose to call, text, email or submit an enquiry below. There will also be a booking button where you can book a time to view the animal which will also update to your personal calendar if you allow the access. 
 
 You would also be able to share the link of each animal (or the whole page) on social media or to another person. There would also be a drop down menu in the top left listing: About Us, Animals for Adoption, My List, Our Sponsors, How Can You Help? and Contact Us. About us page would give an overview of the app, why it is important to adopt animals, statistics on the current homeless and euthanised animals and why we are so passionate to create a change. Animals for adoption would take you back to the homepage that was previously explained. My List would take you to the list of animals you have previously clicked the love heart on. Our Sponsors would give an overview of why it is beneficial to sponsor an animal, and then there would be a list of all the sponsors logos below. Each logo would also have a direct link to the business. How can you help, page would list the ways businesses could help by sponsoring an animal, how anyone could help by sharing the app and individual animal’s pages, how to donate money to keep the dream alive, i.e. costs associated with running the shelters etc, and who to contact if you are interested in volunteering at your local animal shelter. Finally, the contact us page would give you the details of all shelters in your searched area, with names, phone numbers, emails and an online submit enquiry form available.
 
 
 # Tools and Technologies and Skill Required:
 
-Too bring this idea to life I would need to use an app builder if I had magically obtained such skill to drive it, I have listed a few examples and researched into the below websites for more information:
+Too bring this idea to life I would need to use an app builder and the assumption that I had magically obtained such skill to drive it, I have listed a few examples and researched into the below websites for more information:
 
 https://www.websitetooltester.com/en/blog/app-makers/
 
 https://mashable.com/article/build-mobile-apps/#kDRaZiVNUZqt
 
-I would then need to draft out how each section would look to make sure it would all work in unison and that it would even work at all. Due to my limited skill in the IT area I would need to use an App Builder that was really user friendly and minimal coding. The app would have to be able to hold a lot of content and it would need to be user friendly on any device for example iPhone, Samsung or desktop etc. 
+I would then need to draft out how each section/page would look to make sure it would all work in unison and that it would even work at all. Due to my limited skill in the IT area I would need to use an App Builder that was really user friendly and had minimal coding. The app would have to be able to hold a lot of content and it would need to be user friendly on any device for example iPhone, Samsung or desktop etc. 
 
-In reality though, if I was running this project, I would need to employ an outside source to enable the creation of a successful app. There would be a large outlay initially, but the funds would be returned via “Our Sponsors” page would be created as an online directory, so each time a buyer clicked on a sponsor and a sale was successful through that redirection, “Furever” would take 20% of the sale. Marketing to appropriate sponsors that have active purchasing websites would be a must for the financial success of this app.  
+In reality though, if I was running this project, I would need to employ an outside source to enable the creation of a successful app. There would be a large outlay initially, but the funds would be returned via “Our Sponsors”. When businesses sign up to sponsor an animal their logo would be addd to the "Our Sponsors" page that would not only be a source of advertising for them but it would also act as an online directory, so each time a buyer clicked on a sponsor and a sale was successful through that redirection, “Furever” would take 20% of the sale. Marketing to appropriate sponsors that have active purchasing websites would be a must for the financial success of this app. 
+
+The project would also need access to willing photographers in each area (this would mainly be directed at passionate volunteers willing to contribute to the great cause. 
 
 
 # Outcome
 
 If this project was successful and potential buyers of pets were able to access all the animals for sale in the area that are ready for adoption this would highly reduce the number of animals living in shelters and being euthanised each year – which is the original problem that I was endeavouring to combat. Educating communities on the app, would increase the use of it, this could easily be done via social media. 
+
+
+![Line](https://user-images.githubusercontent.com/48317010/54173193-a3955200-44cc-11e9-9e15-80cf340780c5.png)
+
+# References
 
 
