@@ -2,7 +2,7 @@
 
 ![Line](https://user-images.githubusercontent.com/48317010/54173193-a3955200-44cc-11e9-9e15-80cf340780c5.png)
 
-## My Profile
+# My Profile
 
 
 ![Lisa Photo](https://user-images.githubusercontent.com/48317010/54102121-d418b580-4412-11e9-8bea-5d50920ff141.jpg)
