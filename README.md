@@ -84,7 +84,9 @@ After completing the different types of tests and looking over the results it ha
 
 
 
-## My Project ##
+# My Project
+
+![App pic](https://user-images.githubusercontent.com/48317010/54173100-48fbf600-44cc-11e9-8463-d96d322eabe9.JPG)
 
 # Idea: 
 
