@@ -13,7 +13,7 @@ Hi everyone, my name is Lisa Casey, I am from Far North QLD where I was born and
 
 # What is my interest in IT:
 
-Even though IT is heavily relied upon in my life, it is something that I do not have a direct interest in. I do ensure that I am highly competent and using the software I do need for my career to its full advantage, but outside of work and general IT that we all use for everyday life, I have no desire to widen my skills on a hobby or professional level. 
+Even though IT is heavily relied upon in my life, it is something that I do not have a direct interest in unfortunatley. I do ensure that I am highly competent in using the software I do need for my career to its full advantage, but outside of work and general IT that we all use for everyday life, I have no desire to widen my skills on a hobby or professional level, but hopefully I do take some skills away from this course that I can use. 
 
 
 # Why did I choose RMIT:
@@ -89,6 +89,7 @@ After completing the different types of tests and looking over the results it ha
 
 ![App pic](https://user-images.githubusercontent.com/48317010/54173100-48fbf600-44cc-11e9-8463-d96d322eabe9.JPG)
 
+
 # Idea: 
 
 It is estimated that 130,000 dogs and 60,000 cats are delivered to animal refuges in Australia and if they are not adopted or claimed they are euthanised, as there are simply not enough home for the amount of homeless animals (ATAAC, 2019). My project idea is to develop a smartphone app that enables each animal refuge to be able to advertise the animals they currently have available to be purchased. 
@@ -128,6 +129,28 @@ If this project was successful and potential buyers of pets were able to access 
 
 ![Line](https://user-images.githubusercontent.com/48317010/54173193-a3955200-44cc-11e9-9e15-80cf340780c5.png)
 
+
 # References
+
+
+http://ataac.org/facts/21-animals-we-neglect/20-pet-shops.html
+
+
+https://www.123test.com/personality-test/id=fPMQ07KWBYGXGHS&version=
+
+
+http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=7&V=7&T=6
+
+
+http://www.humanmetrics.com/personality/esfj
+
+
+https://www.truity.com/personality-test/10858/test-results/7280558
+
+
+https://www.seek.com.au/job/38509741?searchrequesttoken=e4469cf4-f3b1-4e3d-ab9c-009e843b77ec&type=standout
+
+
+
 
 
