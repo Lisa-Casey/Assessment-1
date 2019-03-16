@@ -41,7 +41,7 @@ To be successful in this position: the applicant would need to be currently empl
 My current skills and qualifications: are not even close to where I need to be to be successful in such a position as I am currently only half way through completely my bachelor’s degree. My current position within Mortgage Broking and previous experience within working in accounting firms has enabled me to learn a lot of skills that will be useful for reaching my goals such as working directly with customers, liaising with business owners, currently obtaining objectives and goals from clients, networking and working in a team environment. My current role has exposed me to the Financial Planning world and I work alongside multiple planners and paraplanners and we have a successful referral basis between us. My working attributes is that I am hardworking, dedicated, loyal, I have great initiative practices, and excellent problem-solving skills. I have been described as, being level headed and a great team player with eye for detail and being emotionally available for colleagues in need of support or encouragement. 
 
 
-# My plan:
+# My Plan:
 
 My goals for the next 5 years are:
 1.	Year 1 - Continue studying my bachelor degree, and continue working in the mortgage broking industry, building strong client relationships and educate them in a way that when the time comes they will trust me also in a financial planning position
@@ -94,7 +94,7 @@ After completing the different types of tests and looking over the results it ha
 
 It is estimated that 130,000 dogs and 60,000 cats are delivered to animal refuges in Australia and if they are not adopted or claimed they are euthanised, as there are simply not enough home for the amount of homeless animals (ATAAC 2019, para. 1). My project idea is to develop a smartphone app that enables each animal refuge to be able to advertise the animals they currently have available to be purchased. 
 
-# Why? 
+# Why?: 
 
 My motivation for this project would come from the fact that I am extremely passionate about animal welfare and I honestly feel with such statistics in Australia something needs to be done. Better exposure of the animals that are looking for homes will decrease the amount of euthanised animals as many more would be purchased and also decrease buyers purchasing directly from breeders - that in particular are not helping the cause of increasing the population of animals in Australia when we are already way over capacity. There are many websites available for breeders, pet shops etc for buyers to view when they are in the market to purchase a pet, but there is very limited information surrounding animals at shelters, therefore I feel like there is a gap in the market where buyers are not offered all that is actually available. Fulfilling this would have an overall positive impact on the futures of many animal’s lives and purchases would help fund to keeping animal shelters and the great causes surrounding animal welfare operating and alive.
 
@@ -123,7 +123,7 @@ In reality though, if I was running this project, I would need to employ an outs
 The project would also need access to willing photographers in each area (this would mainly be directed at passionate volunteers willing to contribute to the great cause. 
 
 
-# Outcome
+# Outcome:
 
 If this project was successful and potential buyers of pets were able to access all the animals for sale in the area that are ready for adoption this would highly reduce the number of animals living in shelters and being euthanised each year – which is the original problem that I was endeavouring to combat. Educating communities on the app, would increase the use of it, this could easily be done via social media. 
 
@@ -131,7 +131,7 @@ If this project was successful and potential buyers of pets were able to access 
 ![Line](https://user-images.githubusercontent.com/48317010/54173193-a3955200-44cc-11e9-9e15-80cf340780c5.png)
 
 
-# References
+# References:
 
 
 Australian Teens Against Animal Cruelty, AATC, Pet Shops, viewed 12 March 2019, http://ataac.org/facts/21-animals-we-neglect/20-pet-shops.html
