@@ -8,7 +8,7 @@
 
 # About me: 
 
-Hi everyone, my name is Lisa Casey, I am from Far North QLD where I was born and have lived for 90% of my life. I was previously studying Bachelor of Accounting, but when I my career moved into the Mortgage Broking industry and I started working alongside Financial Planners my path changed direction and I am now on my journey to completing my Financial Planning Degree. Hmmm, an interesting fact I guess is that I haven't always been an office worker, I used to work as a Nipper which is a position in underground mining.
+Hi everyone, my name is Lisa Casey, I am from Far North QLD where I was born and have lived for 90% of my life. I was previously studying Bachelor of Accounting, but when my career moved into the Mortgage Broking industry and I started working alongside Financial Planner's my path changed direction and I am now on my journey to completing my Financial Planning Degree. Hmmm, an interesting fact I guess is that I haven't always been an office worker, I used to work as a Nipper which is a position in underground mining in a mine at central queensland.
 
 
 # What is my interest in IT:
@@ -18,12 +18,12 @@ Even though IT is heavily relied upon in my life, it is something that I do not 
 
 # Why did I choose RMIT:
 
-I chose to study Bachelor of Business (Financial Planning) through RMIT, as this Bachelor Degree satisfies the education requirements to become a Financial Planner and can be studied externally through OUA.
+I chose to study Bachelor of Business (Financial Planning) through RMIT, as this Bachelor Degree satisfies the education requirements to become a Financial Planner and can be studied externally through OUA. 
 
 
 # What do I expect to learn during my studies:
 
-I am hoping to get a grasp on the fundamental information and application techniques/procedures etc that I will need to become not only a successful Financial Planner but a successful manager and gradually business owner. My goal is to move from a broking position into a para-planner position to be able to use the skills learned through RMIT on a daily basis. 
+I am hoping to get a grasp on the fundamental information and application techniques/procedures etc that I will need to become not only a successful Financial Planner but a successful manager and gradually business owner. My goal is to move from a broking position into a para-planner position to be able to use the skills learned through RMIT on a daily basis as I work towards a financial planning position. 
 
 
 # Ideal Job:
