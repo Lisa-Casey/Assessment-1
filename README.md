@@ -92,9 +92,10 @@ After completing the different types of tests and looking over the results it ha
 
 # Idea: 
 
-It is estimated that 130,000 dogs and 60,000 cats are delivered to animal refuges in Australia and if they are not adopted or claimed they are euthanised, as there are simply not enough home for the amount of homeless animals (ATAAC, 2019). My project idea is to develop a smartphone app that enables each animal refuge to be able to advertise the animals they currently have available to be purchased. 
+It is estimated that 130,000 dogs and 60,000 cats are delivered to animal refuges in Australia and if they are not adopted or claimed they are euthanised, as there are simply not enough home for the amount of homeless animals (ATAAC 2019, para. 1). My project idea is to develop a smartphone app that enables each animal refuge to be able to advertise the animals they currently have available to be purchased. 
 
 # Why? 
+
 My motivation for this project would come from the fact that I am extremely passionate about animal welfare and I honestly feel with such statistics in Australia something needs to be done. Better exposure of the animals that are looking for homes will decrease the amount of euthanised animals as many more would be purchased and also decrease buyers purchasing directly from breeders - that in particular are not helping the cause of increasing the population of animals in Australia when we are already way over capacity. There are many websites available for breeders, pet shops etc for buyers to view when they are in the market to purchase a pet, but there is very limited information surrounding animals at shelters, therefore I feel like there is a gap in the market where buyers are not offered all that is actually available. Fulfilling this would have an overall positive impact on the futures of many animal’s lives and purchases would help fund to keeping animal shelters and the great causes surrounding animal welfare operating and alive.
 
 
@@ -133,24 +134,24 @@ If this project was successful and potential buyers of pets were able to access 
 # References
 
 
-http://ataac.org/facts/21-animals-we-neglect/20-pet-shops.html
+Australian Teens Against Animal Cruelty, AATC, Pet Shops, viewed 12 March 2019, http://ataac.org/facts/21-animals-we-neglect/20-pet-shops.html
 
 
-https://www.123test.com/personality-test/id=fPMQ07KWBYGXGHS&version=
+123 Test, Five Big Personality Test Report, 2019, viewed 13 March 2019, https://www.123test.com/personality-test/id=fPMQ07KWBYGXGHS&version=
 
 
-http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=7&V=7&T=6
+Education Planner.org, What's Your Learning Style?, 2011, viewed 13 March 2019, http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=7&V=7&T=6
 
 
-http://www.humanmetrics.com/personality/esfj
+HumanMetrics, Personality Test, 2019, viewed 13 March 2019, http://www.humanmetrics.com/personality/esfj
 
 
-https://www.truity.com/personality-test/10858/test-results/7280558
+Truity, The TypeFinder Personality Test, viewed 13 March 2019, https://www.truity.com/personality-test/10858/test-results/7280558
 
 
-https://www.seek.com.au/job/38509741?searchrequesttoken=e4469cf4-f3b1-4e3d-ab9c-009e843b77ec&type=standout
+Seek, Financial Planner, viewed 13 March 2019, https://www.seek.com.au/job/38509741?searchrequesttoken=e4469cf4-f3b1-4e3d-ab9c-009e843b77ec&type=standout
 
 
 
-
+![Line](https://user-images.githubusercontent.com/48317010/54173193-a3955200-44cc-11e9-9e15-80cf340780c5.png)
 
